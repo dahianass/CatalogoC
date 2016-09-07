@@ -41,18 +41,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CatalogoEditar.cs" />
+    <Compile Include="CatalogoEditarDto.cs" />
     <Compile Include="CategoriaDto.cs" />
-    <Compile Include="CategoriaEliminar.cs" />
+    <Compile Include="CategoriaEliminarDto.cs" />
     <Compile Include="CategoriaRegistroDto.cs" />
     <Compile Include="ProductoCategoriaListaCategoriaId.cs" />
     <Compile Include="ProductoCategoriaListaProductosId.cs" />
     <Compile Include="ProductoCategoriaEditar.cs" />
-    <Compile Include="ProductoDeshactivar.cs" />
-    <Compile Include="Producto.cs" />
-    <Compile Include="ProductoCategoria.cs" />
-    <Compile Include="ProductoCrear.cs" />
-    <Compile Include="ProductoEditar.cs" />
+    <Compile Include="ProductoDeshactivarDto.cs" />
+    <Compile Include="ProductoDto.cs" />
+    <Compile Include="ProductoCategoriaDto.cs" />
+    <Compile Include="ProductoCrearDto.cs" />
+    <Compile Include="ProductoEditarDto.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

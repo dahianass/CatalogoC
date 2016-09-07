@@ -54,6 +54,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CategoriaData.cs" />
+    <Compile Include="CategoriaProducto.cs" />
+    <Compile Include="ProductoData.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

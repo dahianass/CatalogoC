@@ -10,7 +10,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace Catalogo.Dto
 {
     [Table("ProductoCategoria")]
-    public class ProductoCategoria
+    public class ProductoCategoriaDto
     {
         [Key]
         public long IdProductoCategoria { get; set; }

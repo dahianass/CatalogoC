@@ -9,8 +9,8 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Catalogo.Dto
 {
-    [Table("ProductoCategoria")]
-    public class ProductoCategoria
+    //[Table("ProductoCategoria")]
+    public class ProductoCategoriaListaCategoriaId
     {
         [Key]
         public long IdProductoCategoria { get; set; }

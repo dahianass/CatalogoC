@@ -9,11 +9,11 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Catalogo.Dto
 {
-    public class ProductoDeshactivar
+    public class ProductoDeshactivarDto
     {
         [Required]
         [StringLength(100)]
-        public string Nombre { get; set; }
+        public int id { get; set; }
         public bool Activo { get; set; }
     }
 }
