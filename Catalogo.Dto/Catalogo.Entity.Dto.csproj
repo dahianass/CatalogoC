@@ -41,7 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CatalogoEditarDto.cs" />
+    <Compile Include="CategoriaEditarDto.cs" />
     <Compile Include="CategoriaDto.cs" />
     <Compile Include="CategoriaEliminarDto.cs" />
     <Compile Include="CategoriaRegistroDto.cs" />

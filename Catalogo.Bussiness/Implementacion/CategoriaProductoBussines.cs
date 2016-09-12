@@ -11,15 +11,7 @@ namespace Catalogo.Bussiness
 {
     public class CategoriaProductoBussines : ICategoriaProductoBussines
     {
-        public BusinessResult<ProductoDto> CreateProducto(ProductoCrearDto producto)
-        {
-            throw new NotImplementedException();
-        }
-
-        public BusinessResult<bool> eliminarProducto(ProductoDeshactivarDto objProductoDesha)
-        {
-            throw new NotImplementedException();
-        }
+       
 
         public BusinessResult<List<ProductoCategoriaDto>> listarProductCategoria()
         {

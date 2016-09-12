@@ -53,8 +53,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Implementacion\Categoria.cs" />
-    <Compile Include="Implementacion\CategoriaProducto.cs" />
+    <Compile Include="Implementacion\CategoriaData.cs" />
+    <Compile Include="Implementacion\CategoriaProductoData.cs" />
     <Compile Include="Interfaz\IBaseData.cs" />
     <Compile Include="Interfaz\ICategoriaData.cs" />
     <Compile Include="Implementacion\ProductoData.cs" />

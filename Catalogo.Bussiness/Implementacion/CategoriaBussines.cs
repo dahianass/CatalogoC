@@ -6,47 +6,90 @@ using System.Threading.Tasks;
 using Catalogo.Dto;
 using Strategee.Business;
 using Catalogo.Bussiness.Interfaz;
+using Catalogo.Data;
 
 namespace Catalogo.Bussiness
 {
     public class CategoriaBussines : ICategoriaBussines
     {
-        public BusinessResult<bool> CategoriaEditar(CatalogoEditarDto objEdita)
+        ICategoriaData _CategoriaData;
+        
+        public BusinessResult<bool> CategoriaEditar(CategoriaEditarDto objEdita)
         {
             try
             {
-                return null;
+                var result = _CategoriaData.CategoriaEditar(objEdita);
+                return BusinessResult<bool>.Success(result, "Operación correcta");
             }
             catch (Exception ex)
             {
-                return null;
-                throw;
+                return BusinessResult<bool>.Issue(false, "Operación incorrecta", ex);
             }
         }
 
         public BusinessResult<CategoriaRegistroDto> CreateCategoria(CategoriaRegistroDto CategoiraRe)
         {
-            throw new NotImplementedException();
+            try
+            {
+                var result = _CategoriaData.CreateCategoria(CategoiraRe);
+                return BusinessResult<CategoriaRegistroDto>.Success(result, "Operación correcta");
+            }
+            catch (Exception ex)
+            {
+                return BusinessResult<CategoriaRegistroDto>.Issue(null, "Operación incorrecta", ex);
+            }
         }
 
         public BusinessResult<bool> eliminarCategoria(CategoriaEliminarDto objCategori)
         {
-            throw new NotImplementedException();
+            try
+            {
+                var result = _CategoriaData.eliminarCategoria(objCategori);
+                return BusinessResult<bool>.Success(result, "Operación correcta");
+            }
+            catch (Exception ex)
+            {
+                return BusinessResult<bool>.Issue(false, "Operación incorrecta", ex);
+            }
         }
 
         public BusinessResult<List<CategoriaDto>> listarCategorias()
         {
-            throw new NotImplementedException();
+            try
+            {
+                var result = _CategoriaData.listarCategorias();
+                return BusinessResult<List<CategoriaDto>>.Success(result, "Operación correcta");
+            }
+            catch (Exception ex)
+            {
+                return BusinessResult<List<CategoriaDto>>.Issue(null, "Operación incorrecta", ex);
+            }
         }
 
         public BusinessResult<List<CategoriaDto>> Obtener()
         {
-            throw new NotImplementedException();
+            try
+            {
+                var result = _CategoriaData.Obtener();
+                return BusinessResult<List<CategoriaDto>>.Success(result, "Operación correcta");
+            }
+            catch (Exception ex)
+            {
+                return BusinessResult<List<CategoriaDto>>.Issue(null, "Operación incorrecta", ex);
+            }
         }
 
         public BusinessResult<CategoriaDto> Obtener(int id)
         {
-            throw new NotImplementedException();
+            try
+            {
+                var result = _CategoriaData.Obtener(id);
+                return BusinessResult<CategoriaDto>.Success(result, "Operación correcta");
+            }
+            catch (Exception ex)
+            {
+                return BusinessResult<CategoriaDto>.Issue(null, "Operación incorrecta", ex);
+            }
         }
     }
 }

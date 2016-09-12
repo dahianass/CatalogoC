@@ -12,7 +12,7 @@ using Catalogo.Dto;
 
 namespace Catalogo.Data
 {
-    public class Categoria : ICategoriaData
+    public class CategoriaData : ICategoriaData
     {
         ModelCatalogo _context = new ModelCatalogo();
 
@@ -43,7 +43,7 @@ namespace Catalogo.Data
                 return false;
             }
         }
-        public bool CategoriaEditar(CatalogoEditarDto objEdita) {
+        public bool CategoriaEditar(CategoriaEditarDto objEdita) {
             var categoriaEditar = _context.Categoria.Where(c => c.Id == objEdita.Id).FirstOrDefault();
             if (categoriaEditar != null)
             {

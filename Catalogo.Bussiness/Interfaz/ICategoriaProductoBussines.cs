@@ -12,7 +12,7 @@ namespace Catalogo.Bussiness.Interfaz
     public interface ICategoriaProductoBussines
     {
         BusinessResult<List<ProductoCategoriaDto>> listarProductCategoria();
-        BusinessResult<ProductoDto> CreateProducto(ProductoCrearDto producto);
+        BusinessResult<ProductoCategoriaDto> CreateProductoCategoria(ProductoCategoriaDto productoCategoria);
         BusinessResult<bool> eliminarProducto(ProductoDeshactivarDto objProductoDesha);
         BusinessResult<bool> ProdctoEditar(ProductoEditarDto objEdita);
     }

@@ -8,7 +8,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Catalogo.Dto
 {
-    public class CatalogoEditarDto
+    public class CategoriaEditarDto
     {
         [Key]
         public int Id { get; set; }

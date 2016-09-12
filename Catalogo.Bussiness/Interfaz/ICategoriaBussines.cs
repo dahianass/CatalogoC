@@ -10,7 +10,7 @@ namespace Catalogo.Bussiness.Interfaz
 {
     public interface ICategoriaBussines
     {
-        BusinessResult<bool> CategoriaEditar(CatalogoEditarDto objEdita);
+        BusinessResult<bool> CategoriaEditar(CategoriaEditarDto objEdita);
         BusinessResult<CategoriaRegistroDto> CreateCategoria(CategoriaRegistroDto CategoiraRe);
         BusinessResult<bool> eliminarCategoria(CategoriaEliminarDto objCategori);
         BusinessResult<List<CategoriaDto>> listarCategorias();

@@ -12,6 +12,6 @@ namespace Catalogo.Data
         List<CategoriaDto> listarCategorias();
         CategoriaRegistroDto CreateCategoria(CategoriaRegistroDto CategoiraRe);
         bool eliminarCategoria(CategoriaEliminarDto objCategori);
-        bool CategoriaEditar(CatalogoEditarDto objEdita);
+        bool CategoriaEditar(CategoriaEditarDto objEdita);
         }
 }
