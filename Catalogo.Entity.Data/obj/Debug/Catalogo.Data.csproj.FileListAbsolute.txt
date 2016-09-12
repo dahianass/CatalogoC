@@ -1,0 +1,16 @@
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Entity.Data\bin\Debug\Catalogo.Entity.Data.dll.config
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Entity.Data\bin\Debug\Catalogo.Entity.Data.dll
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Entity.Data\bin\Debug\Catalogo.Entity.Data.pdb
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Entity.Data\bin\Debug\AutoMapper.dll
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Entity.Data\bin\Debug\Catalogo.Dto.dll
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Entity.Data\bin\Debug\Catalogo.Entity.dll
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Entity.Data\bin\Debug\EntityFramework.dll
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Entity.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Entity.Data\bin\Debug\Catalogo.Dto.pdb
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Entity.Data\bin\Debug\Catalogo.Entity.pdb
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Entity.Data\bin\Debug\AutoMapper.xml
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Entity.Data\bin\Debug\EntityFramework.xml
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Entity.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Entity.Data\obj\Debug\Catalogo.Data.csprojResolveAssemblyReference.cache
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Entity.Data\obj\Debug\Catalogo.Entity.Data.dll
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Entity.Data\obj\Debug\Catalogo.Entity.Data.pdb

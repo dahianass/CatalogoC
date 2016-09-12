@@ -8,3 +8,13 @@ c:\Users\dallianasaldarriaga\documents\visual studio 2015\Projects\Catalogo\Cata
 c:\Users\dallianasaldarriaga\documents\visual studio 2015\Projects\Catalogo\Catalogo.Entity\obj\Debug\Catalogo.Entity.csprojResolveAssemblyReference.cache
 c:\Users\dallianasaldarriaga\documents\visual studio 2015\Projects\Catalogo\Catalogo.Entity\obj\Debug\Catalogo.Entity.dll
 c:\Users\dallianasaldarriaga\documents\visual studio 2015\Projects\Catalogo\Catalogo.Entity\obj\Debug\Catalogo.Entity.pdb
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Entity\bin\Debug\Catalogo.Entity.dll.config
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Entity\bin\Debug\Catalogo.Entity.dll
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Entity\bin\Debug\Catalogo.Entity.pdb
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Entity\bin\Debug\EntityFramework.dll
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Entity\bin\Debug\EntityFramework.xml
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Entity\obj\Debug\Catalogo.Entity.csprojResolveAssemblyReference.cache
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Entity\obj\Debug\Catalogo.Entity.dll
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Entity\obj\Debug\Catalogo.Entity.pdb

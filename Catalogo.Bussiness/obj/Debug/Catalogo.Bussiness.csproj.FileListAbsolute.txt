@@ -1,0 +1,17 @@
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Bussiness\bin\Debug\Catalogo.Bussiness.dll
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Bussiness\bin\Debug\Catalogo.Bussiness.pdb
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Bussiness\bin\Debug\Catalogo.Dto.dll
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Bussiness\bin\Debug\Catalogo.Entity.Data.dll
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Bussiness\bin\Debug\Strategee.Business.dll
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Bussiness\bin\Debug\Catalogo.Entity.dll
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Bussiness\bin\Debug\AutoMapper.dll
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Bussiness\bin\Debug\EntityFramework.dll
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Bussiness\bin\Debug\Catalogo.Dto.pdb
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Bussiness\bin\Debug\Catalogo.Entity.Data.pdb
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Bussiness\bin\Debug\Strategee.Business.xml
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Bussiness\bin\Debug\Catalogo.Entity.pdb
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Bussiness\bin\Debug\AutoMapper.xml
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Bussiness\bin\Debug\EntityFramework.xml
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Bussiness\obj\Debug\Catalogo.Bussiness.csprojResolveAssemblyReference.cache
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Bussiness\obj\Debug\Catalogo.Bussiness.dll
+C:\Users\DallianaSaldarriaga\Documents\GitHub\Catalogo\Catalogo.Bussiness\obj\Debug\Catalogo.Bussiness.pdb

@@ -53,9 +53,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CategoriaData.cs" />
-    <Compile Include="CategoriaProducto.cs" />
-    <Compile Include="ProductoData.cs" />
+    <Compile Include="Implementacion\Categoria.cs" />
+    <Compile Include="Implementacion\CategoriaProducto.cs" />
+    <Compile Include="Interfaz\IBaseData.cs" />
+    <Compile Include="Interfaz\ICategoriaData.cs" />
+    <Compile Include="Implementacion\ProductoData.cs" />
+    <Compile Include="Interfaz\ICategoriaProductoData.cs" />
+    <Compile Include="Interfaz\IProductData.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

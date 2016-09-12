@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Strategee.Business</name>
+    </assembly>
+    <members>
+        <member name="T:Strategee.Business.BusinessException">
+            <summary>
+            Excepción para manejar los errores en la capa de negocio.
+            </summary>
+        </member>
+        <member name="M:Strategee.Business.BusinessException.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Strategee.Business.BusinessException.#ctor(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="message"></param>
+        </member>
+        <member name="M:Strategee.Business.BusinessException.#ctor(System.String,System.Exception)">
+            <summary>
+            
+            </summary>
+            <param name="message"></param>
+            <param name="innerException"></param>
+        </member>
+        <member name="M:Strategee.Business.BusinessException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)">
+            <summary>
+            
+            </summary>
+            <param name="info"></param>
+            <param name="context"></param>
+        </member>
+        <member name="T:Strategee.Business.BusinessResult`1">
+            <summary>
+            Clase encargada de encapsular todas las operaciones en la capa de negocio.
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="P:Strategee.Business.BusinessResult`1.Error">
+            <summary>
+            Excepción que se genera al momento de un error
+            </summary>
+        </member>
+        <member name="P:Strategee.Business.BusinessResult`1.Result">
+            <summary>
+            Resultado de la operación
+            </summary>
+        </member>
+        <member name="P:Strategee.Business.BusinessResult`1.Date">
+            <summary>
+            Fecha en que se ejecututó la operación
+            </summary>
+        </member>
+        <member name="P:Strategee.Business.BusinessResult`1.Message">
+            <summary>
+            Mensaje de la operación
+            </summary>
+        </member>
+        <member name="P:Strategee.Business.BusinessResult`1.SuccessfulOperation">
+            <summary>
+            Determina si la operación fué o no exitosa
+            </summary>
+        </member>
+        <member name="M:Strategee.Business.BusinessResult`1.Success(`0,System.String)">
+            <summary>
+            Método utilitario para construir una instancia de BusinessResult en caso de que la operación haya sido exitosa
+            </summary>
+            <param name="result">Resultado de la operación</param>
+            <param name="message">Mensaje que indica lo ocurrido</param>
+            <returns></returns>
+        </member>
+        <member name="M:Strategee.Business.BusinessResult`1.Issue(`0,System.String,System.Exception)">
+            <summary>
+            Método utilitario para construir una instancia de BusinessResult en caso de que la operación haya sido errónea
+            </summary>
+            <param name="result">Resultado de la operación</param>
+            <param name="message">Mensaje que indica lo ocurrido</param>
+            <param name="ex">Excepción ocurrida</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
