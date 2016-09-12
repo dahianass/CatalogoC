@@ -11,9 +11,17 @@ namespace Catalogo.Bussiness
 {
     public class CategoriaBussines : ICategoriaBussines
     {
-        public BusinessResult<bool> CategoriaEditar (CatalogoEditarDto objEdita)
+        public BusinessResult<bool> CategoriaEditar(CatalogoEditarDto objEdita)
         {
-            throw new NotImplementedException();
+            try
+            {
+                return null;
+            }
+            catch (Exception ex)
+            {
+                return null;
+                throw;
+            }
         }
 
         public BusinessResult<CategoriaRegistroDto> CreateCategoria(CategoriaRegistroDto CategoiraRe)
